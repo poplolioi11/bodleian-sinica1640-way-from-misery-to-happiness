@@ -4,10 +4,10 @@
   "source": "https://digital.bodleian.ox.ac.uk/objects/3dce1c7f-de64-43e3-b35d-6b1dc4e07dc2/",
   "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/3dce1c7f-de64-43e3-b35d-6b1dc4e07dc2.json",
   "source_rights_policy": "https://creativecommons.org/licenses/by-nc/4.0/",
-  "dataset_version": "0.1.0",
+  "dataset_version": "0.2.0",
   "scan_count": 10,
   "content_scan_count": 7,
-  "review_status": "initial-transcription",
+  "review_status": "targeted-image-adjudication",
   "source_image_inventory": [
     {
       "image": 1,

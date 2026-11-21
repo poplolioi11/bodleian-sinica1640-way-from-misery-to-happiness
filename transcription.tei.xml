@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -101,7 +101,7 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">單幅：展覽編號的「114」為手寫。右緣線裝有紅綠線。</ab>
+            <ab type="layout">單幅：封面展覽標籤的「114」為手寫，中央墨筆「636 j」與下方鉛筆舊號相合。紅綠線裝另記。</ab>
           </div>
         </div>
         <pb n="2" facs="#f02" />
@@ -113,17 +113,17 @@
             <ab type="column" n="1" xml:id="f02-l-c01">
               <seg type="diplomatic-text">轉禍為福之法</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-l-c01">
+            <ab type="page-feature" subtype="printed-imprint">
               <label>題葉右欄紀年</label>
-              <seg type="diplomatic-text" rend="unknown">道光十八年戊戌鐫</seg>
+              <seg type="diplomatic-text" rend="black">道光十八年戊戌鐫</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-l-c01">
+            <ab type="page-feature" subtype="printed-imprint">
               <label>題葉左欄刊記</label>
-              <seg type="diplomatic-text" rend="unknown">新嘉坡堅夏書院藏板</seg>
+              <seg type="diplomatic-text" rend="black">新嘉波堅夏書院藏板</seg>
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：正封裏無印刷正文，可見相對淺痕。 左面：黃色題葉，中欄大字篇題，左右小字分錄。紀年可見「戊戌」。</ab>
+            <ab type="layout">右面：正封裏無印刷正文。左面：黃色題葉有三個印欄，中央大字題名，右小字紀年，左小字刊記。刊記依原刻作「新嘉波」。</ab>
           </div>
         </div>
         <pb n="3" facs="#f03" />
@@ -168,18 +168,10 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：題葉背面僅反向透印，不重錄；框下有淡圓形藏印，印文暫未釋。 左面：原刊有黑撇、實點及空心圈；以可辨字側頓記與句點轉錄。第二欄「老邁」及第三欄名字「會汾」待核。</ab>
+            <ab type="layout">右面：題葉反向透印未重錄。框下淡圓印文待核。左面：正文第1葉起。版中見短頓、實黑點與空圈，例如第2欄「暢」旁短頓與「步」旁實點、第3欄「流」旁空圈。TXT 的頓號與句號保留句讀位置。</ab>
             <ab type="transcription-issue" n="right:None">
-              <quote />
-              <note type="editorial">題葉背面僅反向透印，不重錄；框下有淡圓形藏印，印文暫未釋。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:2">
-              <quote>老邁</quote>
-              <note type="editorial">原刊有黑撇、實點及空心圈；以可辨字側頓記與句點轉錄。第二欄「老邁」及第三欄名字「會汾」待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:3">
-              <quote>會汾</quote>
-              <note type="editorial">原刊有黑撇、實點及空心圈；以可辨字側頓記與句點轉錄。第二欄「老邁」及第三欄名字「會汾」待核。</note>
+              <quote>淡圈印文</quote>
+              <note type="editorial">題葉背面框下可見淡圓形實物痕；印文難以辨定。</note>
             </ab>
           </div>
         </div>
@@ -258,18 +250,10 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：末欄「涵浹」連字有墨淡，候讀待核。 左面：逐欄按原刊。第二欄「遭」後圓圈及第十欄「殉」待核。</ab>
+            <ab type="layout">右面：正文第1葉背。末欄「涵浹」為候讀。左面：正文第2葉起，原刻頓點依所見轉寫。</ab>
             <ab type="transcription-issue" n="right:10">
               <quote>涵浹</quote>
-              <note type="editorial">末欄「涵浹」連字有墨淡，候讀待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:None">
-              <quote>遭</quote>
-              <note type="editorial">逐欄按原刊。第二欄「遭」後圓圈及第十欄「殉」待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:10">
-              <quote>殉</quote>
-              <note type="editorial">逐欄按原刊。第二欄「遭」後圓圈及第十欄「殉」待核。</note>
+              <note type="editorial">末欄兩字部分墨色偏淡，保留初錄候讀。</note>
             </ab>
           </div>
         </div>
@@ -316,13 +300,13 @@
               <seg type="diplomatic-text">我出黑暗之權、搬我入其愛子之國、賴其流血吾得贖罪、並獲</seg>
             </ab>
             <ab type="column" n="2" xml:id="f05-l-c02">
-              <seg type="diplomatic-text">諸過之赦。耶穌乃無現上帝之像、萬物之初生。蓋天地有形無</seg>
+              <seg type="diplomatic-text">諸過之救。耶穌乃無現上帝之像、萬物之初生。蓋天地有形無</seg>
             </ab>
             <ab type="column" n="3" xml:id="f05-l-c03">
               <seg type="diplomatic-text">形之物、皆賴其子造化。亦國位、主宰、管轄、權勢、皆賴上帝之子</seg>
             </ab>
             <ab type="column" n="4" xml:id="f05-l-c04">
-              <seg type="diplomatic-text">造化、都為其榮而在焉。且上帝之子、在萬物之先、又萬物賴</seg>
+              <seg type="diplomatic-text">造化、都為其榮而在焉。且上帝之之子、在萬物之先、又萬物賴</seg>
             </ab>
             <ab type="column" n="5" xml:id="f05-l-c05">
               <seg type="diplomatic-text">之得立焉。他道、旣是如此、余伐功、莫非得救乎、晚生不說謊、不</seg>
@@ -348,7 +332,11 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：首欄「俄頃」、第二欄末「籲」候讀。 左面：第二欄「無現上帝之像」、第五欄「余伐功」、末欄「而緣我罪」均依字形候讀。第四欄末印到「賴」，與下一欄起語相接。</ab>
+            <ab type="layout">右面：第2葉背，首欄「俄頃」保留。左面：第3葉起。第4欄「上帝之之子」原刊二「之」連印。</ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>呼籲</quote>
+              <note type="editorial">籲字下部近版框且筆畫稠密，保留候讀。</note>
+            </ab>
           </div>
         </div>
         <pb n="6" facs="#f06" />
@@ -370,7 +358,7 @@
               <seg type="diplomatic-text">可恨每日人死、未知往何處。我也必死、而落陰間焉。旣是如此、</seg>
             </ab>
             <ab type="column" n="6" xml:id="f06-r-c06">
-              <seg type="diplomatic-text">避後死之難、我所甚願、倘贖罪之理、有把柄、則永賴洪庥、而保</seg>
+              <seg type="diplomatic-text">避後死之難、我所甚願、倘贖罪之理、有把柄、則永賴洪麻、而保</seg>
             </ab>
             <ab type="column" n="7" xml:id="f06-r-c07">
               <seg type="diplomatic-text">全焉。但不知實情、坐又不安、立又不寧也。正猜測間、德齡道、先</seg>
@@ -426,14 +414,10 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：第四欄「覆幄」、第六欄「洪庥」、第九欄「証指供確」依字形保留候讀。 左面：第五欄只排至「也」，其後留空。「靡暨」字義待核；第七欄另起風雨場景。</ab>
-            <ab type="transcription-issue" n="left:None">
-              <quote>也</quote>
-              <note type="editorial">第五欄只排至「也」，其後留空。「靡暨」字義待核；第七欄另起風雨場景。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:5">
-              <quote>靡暨</quote>
-              <note type="editorial">第五欄只排至「也」，其後留空。「靡暨」字義待核；第七欄另起風雨場景。</note>
+            <ab type="layout">右面：第3葉背，第6欄依原刊作「洪麻」。第9欄「証指供確」字形未定。左面：正文第4葉起，第5欄短收，留原欄空位。</ab>
+            <ab type="transcription-issue" n="right:9">
+              <quote>証指供確</quote>
+              <note type="editorial">四字可辨程度不一，仍採初稿候讀待字書佐證。</note>
             </ab>
           </div>
         </div>
@@ -512,14 +496,10 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：第六欄「劣體」及第四欄「懲辦」字形待核。 左面：第一欄「力追」、第四欄「備虔」及第七欄「應承」保留原形候讀。</ab>
+            <ab type="layout">右面：第4葉背，第6欄「劣體」為候讀。左面：正文第5葉起，同欄兩現「草靡」。</ab>
             <ab type="transcription-issue" n="right:6">
               <quote>劣體</quote>
-              <note type="editorial">第六欄「劣體」及第四欄「懲辦」字形待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:4">
-              <quote>懲辦</quote>
-              <note type="editorial">第六欄「劣體」及第四欄「懲辦」字形待核。</note>
+              <note type="editorial">劣字構件看似少、力，仍留候讀及位置。</note>
             </ab>
           </div>
         </div>
@@ -539,7 +519,7 @@
               <seg type="diplomatic-text">悅然信服、切求耶穌垂顧、照應、賜聖神焉。那個王會汾也無任</seg>
             </ab>
             <ab type="column" n="5" xml:id="f08-r-c05">
-              <seg type="diplomatic-text">欣慰矣。我三人知此理、故福安暨合譚。兹生賴救主、後生仰望</seg>
+              <seg type="diplomatic-text">欣慰矣。我三人知此理、故福安暨合潭。兹生賴救主、後生仰望</seg>
             </ab>
             <ab type="column" n="6" xml:id="f08-r-c06">
               <seg type="diplomatic-text">耶穌之眷祐、享天堂之福矣。</seg>
@@ -559,7 +539,7 @@
             <ab type="no-transcribed-text" />
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：本篇止於第五葉背。第五欄「故福安暨合譚」候讀。第六、第八欄排短，原尾留空。 左面：正文後的空白面。</ab>
+            <ab type="layout">右面：第5葉背為正文末面。第6欄與第8欄短收，第7欄「看官」從版框頂重起。第8欄「矣」旁見實點，「也」旁見空心圈。左面：正文後的空白面。</ab>
           </div>
         </div>
         <pb n="9" facs="#f09" />

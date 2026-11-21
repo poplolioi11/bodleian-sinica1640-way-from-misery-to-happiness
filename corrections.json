@@ -1,0 +1,301 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 5,
+  "changes": [
+    {
+      "image": 5,
+      "side": "left",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "諸過之赦",
+      "after": "諸過之救",
+      "reason": "末字左從求，右攵。與同面「致救魂」的救字筆形相同。",
+      "source_bbox": [
+        808,
+        502,
+        875,
+        683
+      ],
+      "offset": [
+        0,
+        4
+      ],
+      "source_image_sha256": "3673e7e24ef85c310228bfc4dc8c5d7852268e394cfa74759c43dad5d420334d",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2993b064-7acd-4235-a925-4bc4ee808f19.json"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 4,
+      "kind": "main",
+      "op": "replace",
+      "before": "且上帝之子",
+      "after": "且上帝之之子",
+      "reason": "之字在同欄連印兩次，中間沒有圈點。",
+      "source_bbox": [
+        625,
+        988,
+        720,
+        1330
+      ],
+      "offset": [
+        11,
+        16
+      ],
+      "source_image_sha256": "3673e7e24ef85c310228bfc4dc8c5d7852268e394cfa74759c43dad5d420334d",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2993b064-7acd-4235-a925-4bc4ee808f19.json"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "洪庥",
+      "after": "洪麻",
+      "reason": "末字广內有兩組木形，依底本作麻。",
+      "source_bbox": [
+        1330,
+        1520,
+        1460,
+        1655
+      ],
+      "offset": [
+        24,
+        26
+      ],
+      "source_image_sha256": "13ff95ad7f4fffbf9cde9a9583824255879edbe35a40cd9f35f2e417e87bfb7a",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2c6c67fd-99ea-4a21-8ba0-4d638ab1a155.json"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "合譚",
+      "after": "合潭",
+      "reason": "末字左三獨立點筆，右覃，作潭。",
+      "source_bbox": [
+        1419,
+        1030,
+        1499,
+        1185
+      ],
+      "offset": [
+        15,
+        17
+      ],
+      "source_image_sha256": "53487498942a3b4d2a8f18fc7c18b0e91cff79774b5e50f67dbfa01098862bb8",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b01b377-fbda-4946-9a5b-1eaa9c08cdb6.json"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "update-reading",
+      "before": "新嘉坡堅夏書院藏板",
+      "after": "新嘉波堅夏書院藏板",
+      "reason": "刊記第三字左氵右皮，原刊作波。地點欄用現行地名新加坡。",
+      "source_bbox": [
+        210,
+        1080,
+        450,
+        1490
+      ],
+      "source_image_sha256": "eb42e860e76c844fddd19facf56de871e763bd345b42fb95cadf1b7f2d45f992",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9264700d-e991-4955-8328-fdc5ad6059fb.json"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 3,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a06b602b-d745-47fb-b650-6c2e6eeec787.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 10,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/00e17536-07a3-4bf3-a58b-053e88b1b785.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2993b064-7acd-4235-a925-4bc4ee808f19.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 9,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2c6c67fd-99ea-4a21-8ba0-4d638ab1a155.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4c9784aa-b9af-451b-8667-0c6616f60ded.json",
+      "status": "字形待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 3,
+      "side": "left",
+      "column": 3,
+      "source_image_sha256": "c853afc08881414d57e70e1d23855e154cdffcd79adfb1ee35a5ee9eeda807ce",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a06b602b-d745-47fb-b650-6c2e6eeec787.json",
+      "reading": "王名會汾",
+      "status": "依原圖留讀",
+      "reason": "末字左氵右分，與第6幅右面跨欄及第8幅右面的同一人名相同。"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 4,
+      "source_image_sha256": "c853afc08881414d57e70e1d23855e154cdffcd79adfb1ee35a5ee9eeda807ce",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a06b602b-d745-47fb-b650-6c2e6eeec787.json",
+      "reading": "久違顏範",
+      "status": "依原圖留讀",
+      "reason": "久末斜捺、違從韋，顏左彥右頁。"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 5,
+      "source_image_sha256": "c853afc08881414d57e70e1d23855e154cdffcd79adfb1ee35a5ee9eeda807ce",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a06b602b-d745-47fb-b650-6c2e6eeec787.json",
+      "reading": "老台勸陸",
+      "status": "依原圖留讀",
+      "reason": "陸字左阜右坴，次欄接「宗兄」。"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 10,
+      "source_image_sha256": "c853afc08881414d57e70e1d23855e154cdffcd79adfb1ee35a5ee9eeda807ce",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a06b602b-d745-47fb-b650-6c2e6eeec787.json",
+      "reading": "折墮",
+      "status": "依原圖留讀",
+      "reason": "折左手旁，墮末有土，依原字形。"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 9,
+      "source_image_sha256": "53c0d1a022589222a1f984fa70d2eb7c061daac37f8319d703debef0b528b58b",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/00e17536-07a3-4bf3-a58b-053e88b1b785.json",
+      "reading": "恁般",
+      "status": "依原圖留讀",
+      "reason": "恁上任下心，與第5幅左面同詞相合。"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 4,
+      "source_image_sha256": "53c0d1a022589222a1f984fa70d2eb7c061daac37f8319d703debef0b528b58b",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/00e17536-07a3-4bf3-a58b-053e88b1b785.json",
+      "reading": "疎慢之愆、擢髮難數",
+      "status": "依原圖留讀",
+      "reason": "疎和髮可辨，保留原刊字形。"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 1,
+      "source_image_sha256": "3673e7e24ef85c310228bfc4dc8c5d7852268e394cfa74759c43dad5d420334d",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2993b064-7acd-4235-a925-4bc4ee808f19.json",
+      "reading": "俄頃",
+      "status": "依原圖留讀",
+      "reason": "第二字左從匕、右頁，可與上字亻旁對看。"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 1,
+      "source_image_sha256": "3673e7e24ef85c310228bfc4dc8c5d7852268e394cfa74759c43dad5d420334d",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2993b064-7acd-4235-a925-4bc4ee808f19.json",
+      "reading": "搬我入其愛子之國",
+      "status": "依原圖留讀",
+      "reason": "搬字左扌右般明確。"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 2,
+      "source_image_sha256": "3673e7e24ef85c310228bfc4dc8c5d7852268e394cfa74759c43dad5d420334d",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2993b064-7acd-4235-a925-4bc4ee808f19.json",
+      "reading": "無現",
+      "status": "依原圖留讀",
+      "reason": "現字右部為見，依底本保留。"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 4,
+      "source_image_sha256": "13ff95ad7f4fffbf9cde9a9583824255879edbe35a40cd9f35f2e417e87bfb7a",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2c6c67fd-99ea-4a21-8ba0-4d638ab1a155.json",
+      "reading": "屢蒙覆幄",
+      "status": "依原圖留讀",
+      "reason": "幄可分巾旁與屋右。"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 10,
+      "source_image_sha256": "13ff95ad7f4fffbf9cde9a9583824255879edbe35a40cd9f35f2e417e87bfb7a",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2c6c67fd-99ea-4a21-8ba0-4d638ab1a155.json",
+      "reading": "神蹟靈異",
+      "status": "依原圖留讀",
+      "reason": "蹟字左足右責。"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 5,
+      "source_image_sha256": "13ff95ad7f4fffbf9cde9a9583824255879edbe35a40cd9f35f2e417e87bfb7a",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2c6c67fd-99ea-4a21-8ba0-4d638ab1a155.json",
+      "reading": "世世靡暨",
+      "status": "依原圖留讀",
+      "reason": "世字連兩次，靡下從非，末字下明見一橫。"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 2,
+      "source_image_sha256": "298e9549e3785c2f6d2b478fc9b51b80abcb78d809e40f69e7bd3f672914be8e",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4c9784aa-b9af-451b-8667-0c6616f60ded.json",
+      "reading": "東風則草靡而西、西風則草靡而東",
+      "status": "依原圖留讀",
+      "reason": "同欄成對複現，保留。"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 7,
+      "source_image_sha256": "53487498942a3b4d2a8f18fc7c18b0e91cff79774b5e50f67dbfa01098862bb8",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b01b377-fbda-4946-9a5b-1eaa9c08cdb6.json",
+      "reading": "看官",
+      "status": "依原圖留讀",
+      "reason": "另起短段，從版框頂重起；第一字上手形、下目。"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 8,
+      "source_image_sha256": "53487498942a3b4d2a8f18fc7c18b0e91cff79774b5e50f67dbfa01098862bb8",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b01b377-fbda-4946-9a5b-1eaa9c08cdb6.json",
+      "reading": "矣。便轉禍為福也。",
+      "status": "依原圖留讀",
+      "reason": "最左欄首矣可見，末「也」右下為空心圈。"
+    }
+  ]
+}

@@ -19,7 +19,7 @@
     "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/3dce1c7f-de64-43e3-b35d-6b1dc4e07dc2.json",
     "manifest_sha256": "09d4405f191ebcb8b480479f2e968d974eb79292b5934a1c9a57326cc03f8f02",
     "record_id": "SINICA1640",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       2,
       3,
@@ -29,9 +29,9 @@
       7,
       8
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "轉禍為福之法（1838年，新加坡堅夏書院，牛津大學博德利圖書館 Sinica 1640） / Zhuan huo wei fu zhi fa [The Way from Misery to Happiness]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -51,7 +51,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2162,
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "single",
@@ -92,7 +92,7 @@
         }
       ],
       "issues": [],
-      "observations": "單幅：展覽編號的「114」為手寫。右緣線裝有紅綠線。"
+      "observations": "單幅：封面展覽標籤的「114」為手寫，中央墨筆「636 j」與下方鉛筆舊號相合。紅綠線裝另記。"
     },
     {
       "image": 2,
@@ -107,7 +107,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2162,
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -123,24 +123,24 @@
           ],
           "extras": [
             {
-              "type": "copy-annotation",
+              "type": "printed-imprint",
               "location": "題葉右欄紀年",
               "text": "道光十八年戊戌鐫",
-              "column_anchor": 1,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "black"
             },
             {
-              "type": "copy-annotation",
+              "type": "printed-imprint",
               "location": "題葉左欄刊記",
-              "text": "新嘉坡堅夏書院藏板",
-              "column_anchor": 1,
-              "color": "unknown"
+              "text": "新嘉波堅夏書院藏板",
+              "column_anchor": null,
+              "color": "black"
             }
           ]
         }
       ],
       "issues": [],
-      "observations": "右面：正封裏無印刷正文，可見相對淺痕。 左面：黃色題葉，中欄大字篇題，左右小字分錄。紀年可見「戊戌」。"
+      "observations": "右面：正封裏無印刷正文。左面：黃色題葉有三個印欄，中央大字題名，右小字紀年，左小字刊記。刊記依原刻作「新嘉波」。"
     },
     {
       "image": 3,
@@ -155,7 +155,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2162,
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -215,26 +215,12 @@
         {
           "side": "right",
           "column": null,
-          "context": "",
+          "context": "淡圈印文",
           "candidates": [],
-          "note": "題葉背面僅反向透印，不重錄；框下有淡圓形藏印，印文暫未釋。"
-        },
-        {
-          "side": "left",
-          "column": 2,
-          "context": "老邁",
-          "candidates": [],
-          "note": "原刊有黑撇、實點及空心圈；以可辨字側頓記與句點轉錄。第二欄「老邁」及第三欄名字「會汾」待核。"
-        },
-        {
-          "side": "left",
-          "column": 3,
-          "context": "會汾",
-          "candidates": [],
-          "note": "原刊有黑撇、實點及空心圈；以可辨字側頓記與句點轉錄。第二欄「老邁」及第三欄名字「會汾」待核。"
+          "note": "題葉背面框下可見淡圓形實物痕；印文難以辨定。"
         }
       ],
-      "observations": "右面：題葉背面僅反向透印，不重錄；框下有淡圓形藏印，印文暫未釋。 左面：原刊有黑撇、實點及空心圈；以可辨字側頓記與句點轉錄。第二欄「老邁」及第三欄名字「會汾」待核。"
+      "observations": "右面：題葉反向透印未重錄。框下淡圓印文待核。左面：正文第1葉起。版中見短頓、實黑點與空圈，例如第2欄「暢」旁短頓與「步」旁實點、第3欄「流」旁空圈。TXT 的頓號與句號保留句讀位置。"
     },
     {
       "image": 4,
@@ -249,7 +235,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2162,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -354,24 +340,10 @@
           "column": 10,
           "context": "涵浹",
           "candidates": [],
-          "note": "末欄「涵浹」連字有墨淡，候讀待核。"
-        },
-        {
-          "side": "left",
-          "column": null,
-          "context": "遭",
-          "candidates": [],
-          "note": "逐欄按原刊。第二欄「遭」後圓圈及第十欄「殉」待核。"
-        },
-        {
-          "side": "left",
-          "column": 10,
-          "context": "殉",
-          "candidates": [],
-          "note": "逐欄按原刊。第二欄「遭」後圓圈及第十欄「殉」待核。"
+          "note": "末欄兩字部分墨色偏淡，保留初錄候讀。"
         }
       ],
-      "observations": "右面：末欄「涵浹」連字有墨淡，候讀待核。 左面：逐欄按原刊。第二欄「遭」後圓圈及第十欄「殉」待核。"
+      "observations": "右面：正文第1葉背。末欄「涵浹」為候讀。左面：正文第2葉起，原刻頓點依所見轉寫。"
     },
     {
       "image": 5,
@@ -386,7 +358,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2162,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -443,13 +415,13 @@
               "text": "我出黑暗之權、搬我入其愛子之國、賴其流血吾得贖罪、並獲"
             },
             {
-              "text": "諸過之赦。耶穌乃無現上帝之像、萬物之初生。蓋天地有形無"
+              "text": "諸過之救。耶穌乃無現上帝之像、萬物之初生。蓋天地有形無"
             },
             {
               "text": "形之物、皆賴其子造化。亦國位、主宰、管轄、權勢、皆賴上帝之子"
             },
             {
-              "text": "造化、都為其榮而在焉。且上帝之子、在萬物之先、又萬物賴"
+              "text": "造化、都為其榮而在焉。且上帝之之子、在萬物之先、又萬物賴"
             },
             {
               "text": "之得立焉。他道、旣是如此、余伐功、莫非得救乎、晚生不說謊、不"
@@ -485,8 +457,16 @@
           ]
         }
       ],
-      "issues": [],
-      "observations": "右面：首欄「俄頃」、第二欄末「籲」候讀。 左面：第二欄「無現上帝之像」、第五欄「余伐功」、末欄「而緣我罪」均依字形候讀。第四欄末印到「賴」，與下一欄起語相接。"
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "呼籲",
+          "candidates": [],
+          "note": "籲字下部近版框且筆畫稠密，保留候讀。"
+        }
+      ],
+      "observations": "右面：第2葉背，首欄「俄頃」保留。左面：第3葉起。第4欄「上帝之之子」原刊二「之」連印。"
     },
     {
       "image": 6,
@@ -501,7 +481,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2162,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -522,7 +502,7 @@
               "text": "可恨每日人死、未知往何處。我也必死、而落陰間焉。旣是如此、"
             },
             {
-              "text": "避後死之難、我所甚願、倘贖罪之理、有把柄、則永賴洪庥、而保"
+              "text": "避後死之難、我所甚願、倘贖罪之理、有把柄、則永賴洪麻、而保"
             },
             {
               "text": "全焉。但不知實情、坐又不安、立又不寧也。正猜測間、德齡道、先"
@@ -602,21 +582,14 @@
       ],
       "issues": [
         {
-          "side": "left",
-          "column": null,
-          "context": "也",
+          "side": "right",
+          "column": 9,
+          "context": "証指供確",
           "candidates": [],
-          "note": "第五欄只排至「也」，其後留空。「靡暨」字義待核；第七欄另起風雨場景。"
-        },
-        {
-          "side": "left",
-          "column": 5,
-          "context": "靡暨",
-          "candidates": [],
-          "note": "第五欄只排至「也」，其後留空。「靡暨」字義待核；第七欄另起風雨場景。"
+          "note": "四字可辨程度不一，仍採初稿候讀待字書佐證。"
         }
       ],
-      "observations": "右面：第四欄「覆幄」、第六欄「洪庥」、第九欄「証指供確」依字形保留候讀。 左面：第五欄只排至「也」，其後留空。「靡暨」字義待核；第七欄另起風雨場景。"
+      "observations": "右面：第3葉背，第6欄依原刊作「洪麻」。第9欄「証指供確」字形未定。左面：正文第4葉起，第5欄短收，留原欄空位。"
     },
     {
       "image": 7,
@@ -631,7 +604,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2162,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -736,17 +709,10 @@
           "column": 6,
           "context": "劣體",
           "candidates": [],
-          "note": "第六欄「劣體」及第四欄「懲辦」字形待核。"
-        },
-        {
-          "side": "right",
-          "column": 4,
-          "context": "懲辦",
-          "candidates": [],
-          "note": "第六欄「劣體」及第四欄「懲辦」字形待核。"
+          "note": "劣字構件看似少、力，仍留候讀及位置。"
         }
       ],
-      "observations": "右面：第六欄「劣體」及第四欄「懲辦」字形待核。 左面：第一欄「力追」、第四欄「備虔」及第七欄「應承」保留原形候讀。"
+      "observations": "右面：第4葉背，第6欄「劣體」為候讀。左面：正文第5葉起，同欄兩現「草靡」。"
     },
     {
       "image": 8,
@@ -761,7 +727,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2162,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -779,7 +745,7 @@
               "text": "悅然信服、切求耶穌垂顧、照應、賜聖神焉。那個王會汾也無任"
             },
             {
-              "text": "欣慰矣。我三人知此理、故福安暨合譚。兹生賴救主、後生仰望"
+              "text": "欣慰矣。我三人知此理、故福安暨合潭。兹生賴救主、後生仰望"
             },
             {
               "text": "耶穌之眷祐、享天堂之福矣。"
@@ -812,7 +778,7 @@
         }
       ],
       "issues": [],
-      "observations": "右面：本篇止於第五葉背。第五欄「故福安暨合譚」候讀。第六、第八欄排短，原尾留空。 左面：正文後的空白面。"
+      "observations": "右面：第5葉背為正文末面。第6欄與第8欄短收，第7欄「看官」從版框頂重起。第8欄「矣」旁見實點，「也」旁見空心圈。左面：正文後的空白面。"
     },
     {
       "image": 9,
@@ -827,7 +793,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2162,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -856,7 +822,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2162,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "single",

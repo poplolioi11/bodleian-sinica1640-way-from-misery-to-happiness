@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '轉禍為福之法（1838年，新加坡堅夏書院，牛津大學博德利圖書館 Sinica 1640） / Zhuan huo wei fu zhi fa [The
   Way from Misery to Happiness]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

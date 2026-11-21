@@ -4,11 +4,11 @@
 
 Zhuan huo wei fu zhi fa (The Way from Misery to Happiness) is a Chinese tract by Karl Friedrich August Gützlaff, printed in Singapore in 1838. A narrator meets two people while walking, and the three discuss sin, redemption, faith and good conduct. The text, transcribed from Bodleian Libraries Sinica 1640, can support work on early Chinese-language printing in Singapore and nineteenth-century missionary writing.
 
-## V0.1.0
+## V0.2.0
 
-全10幅均有索引，7幅含黃色題葉或正文。正文為版心一至五葉正背10面。TXT、JSON 與 TEI XML 提供逐幅對應館圖的欄文、題葉兩處刊記及疑讀。AI輔助轉錄，保留候讀與原圖定位。尚未經人類全文雙校、專家審定或準確率量測。
+全10幅均有索引，7幅含黃色題葉或正文。正文為版心一至五葉正背10面。TXT、JSON 與 TEI XML 提供逐幅對應館圖的欄文、題葉兩處刊記及疑讀。比對獨立原圖讀法後回圖裁定，採用 5 筆訂正，留存疑讀定位。
 
-All ten scans are indexed. Seven show the yellow title leaf or the body, which occupies ten printed faces on five numbered leaves. TXT, JSON and TEI XML align text, imprint and uncertain readings to the scans. AI-assisted transcription with image-linked uncertain readings. Full human double proofreading, specialist review and accuracy measurement have not been performed.
+All ten scans are indexed. Seven show the yellow title leaf or the body, which occupies ten printed faces on five numbered leaves. TXT, JSON and TEI XML align text, imprint and uncertain readings to the scans. An independent image reading was compared with the first transcription. Source-image adjudication adopted 5 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 
