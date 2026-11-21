@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "title": "轉禍為福之法",
+    "catalogue_title": "轉禍為福之法",
+    "roman_title": "Zhuan huo wei fu zhi fa",
+    "author": "郭實獵（Karl Friedrich August Gützlaff，Serica 與 Wylie 書目）",
+    "date": "道光十八年戊戌（1838），原刊「新嘉波堅夏書院藏板」。",
+    "location": "新加坡（原刊），英國牛津（現藏）",
+    "repository": "牛津大學博德利圖書館",
+    "repository_en": "Bodleian Libraries, University of Oxford",
+    "collection": "Sinica",
+    "shelfmark": "Sinica 1640",
+    "language": "zh",
+    "catalogue": "https://digital.bodleian.ox.ac.uk/objects/3dce1c7f-de64-43e3-b35d-6b1dc4e07dc2/",
+    "rights": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "description": "《轉禍為福之法》是郭實獵（Karl Friedrich August Gützlaff）撰、1838年新加坡堅夏書院刊行的漢文小冊。故事由敘事者散步遇見德齡與王會汾展開，三人以問答討論罪、贖救、信德與行善。牛津大學博德利圖書館 Sinica 1640 底本可供新加坡早期華文印刷、近代漢文敘事及傳教出版研究。",
+    "txt_reader_statement": "先讀影像右面再讀左面。每面正文依原欄序右至左。題葉、紀年、刊記、版心與後加館藏題識附位置。五葉正文對應第3幅左面至第8幅右面，餘幅亦有版面記錄。",
+    "tei_editorial_statement": "館方 IIIF canvas 與源圖連結依幅保留。正文、連續葉碼、印記、題葉及原刻頓點分層，候讀附位置供回圖。",
+    "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/3dce1c7f-de64-43e3-b35d-6b1dc4e07dc2.json",
+    "manifest_sha256": "09d4405f191ebcb8b480479f2e968d974eb79292b5934a1c9a57326cc03f8f02",
+    "record_id": "SINICA1640",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "version": "0.1.0",
+    "dataset_title": "轉禍為福之法（1838年，新加坡堅夏書院，牛津大學博德利圖書館 Sinica 1640） / Zhuan huo wei fu zhi fa [The Way from Misery to Happiness]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4798dfdb-ed05-4fe1-b70e-cb501d5039d3.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/4798dfdb-ed05-4fe1-b70e-cb501d5039d3/full/2000,/0/default.jpg",
+      "label": "Upper cover",
+      "file": "01.jpg",
+      "bytes": 1037791,
+      "sha256": "87fd9d9ec2ed66a21630d1b89f91ff6551da7550f6843879cd260e373d1f66de",
+      "native_width": 5412,
+      "native_height": 5850,
+      "downloaded_width": 2000,
+      "downloaded_height": 2162,
+      "content_role": "binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "封面展覽標籤",
+              "text": "CENTENNIAL EXHIBITION.／China Protestant Mission.／No 114",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "CENTENNIAL EXHIBITION.",
+                "China Protestant Mission.",
+                "No 114"
+              ]
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面墨筆",
+              "text": "636 j",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面鉛筆",
+              "text": "Sinica 1640／Ser. d. 716／Chin. 636 j",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "Sinica 1640",
+                "Ser. d. 716",
+                "Chin. 636 j"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：展覽編號的「114」為手寫。右緣線裝有紅綠線。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9264700d-e991-4955-8328-fdc5ad6059fb.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/9264700d-e991-4955-8328-fdc5ad6059fb/full/2000,/0/default.jpg",
+      "label": "Inside upper cover and p. [1]",
+      "file": "02.jpg",
+      "bytes": 1274242,
+      "sha256": "eb42e860e76c844fddd19facf56de871e763bd345b42fb95cadf1b7f2d45f992",
+      "native_width": 5412,
+      "native_height": 5850,
+      "downloaded_width": 2000,
+      "downloaded_height": 2162,
+      "content_role": "binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "轉禍為福之法"
+            }
+          ],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "題葉右欄紀年",
+              "text": "道光十八年戊戌鐫",
+              "column_anchor": 1,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "題葉左欄刊記",
+              "text": "新嘉坡堅夏書院藏板",
+              "column_anchor": 1,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：正封裏無印刷正文，可見相對淺痕。 左面：黃色題葉，中欄大字篇題，左右小字分錄。紀年可見「戊戌」。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a06b602b-d745-47fb-b650-6c2e6eeec787.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/a06b602b-d745-47fb-b650-6c2e6eeec787/full/2000,/0/default.jpg",
+      "label": "pp. [2]-[3]",
+      "file": "03.jpg",
+      "bytes": 1171324,
+      "sha256": "c853afc08881414d57e70e1d23855e154cdffcd79adfb1ee35a5ee9eeda807ce",
+      "native_width": 5412,
+      "native_height": 5850,
+      "downloaded_width": 2000,
+      "downloaded_height": 2162,
+      "content_role": "binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "　　轉禍為福之法"
+            },
+            {
+              "text": "天光晴朗、惠風和暢、吾出散步。忽遇兩個人、一個年紀老邁、姓"
+            },
+            {
+              "text": "德、名齡、一個少年姓王名會汾。兩者高談濶論、對答如流。余聆"
+            },
+            {
+              "text": "一半晌、那輕年的說道、久違顏範、未得一奉台教、茅塞滿腔。敢"
+            },
+            {
+              "text": "問老先生、素日說贖罪之理、慰世人如何。晚生聽見老台勸陸"
+            },
+            {
+              "text": "宗兄、云、死在旦夕之時、宜固執贖罪之道。他也、聽從。雖病勢危"
+            },
+            {
+              "text": "篤、心腸酷裂、却是無任欣慰、就死也瞑目。德齡道先生所說來"
+            },
+            {
+              "text": "不錯、所傳之道、所言之理、非擅自而立。然上帝自天啟示人類"
+            },
+            {
+              "text": "云。萬人諸代皆獲罪于上帝、緣罪惡招上帝之義怒、見定罪、陷"
+            },
+            {
+              "text": "地獄、得禍極酷、永遠折墮、乃上帝深切愛世。賜其獨生之子令"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左側版心",
+              "text": "轉禍為福之法／一",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "轉禍為福之法",
+                "一"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "題葉背面僅反向透印，不重錄；框下有淡圓形藏印，印文暫未釋。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "老邁",
+          "candidates": [],
+          "note": "原刊有黑撇、實點及空心圈；以可辨字側頓記與句點轉錄。第二欄「老邁」及第三欄名字「會汾」待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "會汾",
+          "candidates": [],
+          "note": "原刊有黑撇、實點及空心圈；以可辨字側頓記與句點轉錄。第二欄「老邁」及第三欄名字「會汾」待核。"
+        }
+      ],
+      "observations": "右面：題葉背面僅反向透印，不重錄；框下有淡圓形藏印，印文暫未釋。 左面：原刊有黑撇、實點及空心圈；以可辨字側頓記與句點轉錄。第二欄「老邁」及第三欄名字「會汾」待核。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/00e17536-07a3-4bf3-a58b-053e88b1b785.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/00e17536-07a3-4bf3-a58b-053e88b1b785/full/2000,/0/default.jpg",
+      "label": "pp. [4]-[5]",
+      "file": "04.jpg",
+      "bytes": 1269546,
+      "sha256": "53c0d1a022589222a1f984fa70d2eb7c061daac37f8319d703debef0b528b58b",
+      "native_width": 5412,
+      "native_height": 5850,
+      "downloaded_width": 2000,
+      "downloaded_height": 2162,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "凡信之者免陷沉淪。乃得常生也。且上帝遣子降世、不罪世人"
+            },
+            {
+              "text": "乃救世人也。凡信之者無定罪、但凡不信者已見定罪、因不肯"
+            },
+            {
+              "text": "信、上帝獨生之子也。此之謂也。且說、王會汾細聽問道、那個信"
+            },
+            {
+              "text": "若何、晚生也、信神明尊大、無比無似、至清、至淨、莫非信德乎。德"
+            },
+            {
+              "text": "吃一驚說道。終不是、先生所信之神明、為假無實、這信者莫說"
+            },
+            {
+              "text": "無益、就是極惡重罪。聖書曰。上帝乃靈、而凡拜之者、必以靈意、"
+            },
+            {
+              "text": "誠心而拜之也。此乃自然之理。至于信耶穌者、最緊要之事。救"
+            },
+            {
+              "text": "主垂愛世人、替世之罪捐命、甚願贖人之罪、被釘十字架死了。"
+            },
+            {
+              "text": "恁般的仁愛、有海一般深、有山一般高、無限無量。倘我受仁愛、"
+            },
+            {
+              "text": "沾其慈悲、又知是德洋恩溥涵浹羣生、隨捫心自問、查究本罪"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右側版心",
+              "text": "轉禍為福之法／一",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "轉禍為福之法",
+                "一"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "痛悔前非。遂想云、因吾自取咎矣、其罪彌天亘地、不可勝。故上"
+            },
+            {
+              "text": "帝之子遭。千苦受萬難焉。吾向來深荷厚恩、日流惡、而莫悔矣、"
+            },
+            {
+              "text": "豈非嚴哉。上帝之子愛我、而吾不答愛。上帝之子憐我、而吾輕"
+            },
+            {
+              "text": "憐、眞可謂疎慢之愆、擢髮難數。緣此深注念、羞愧妄行。因罪惡"
+            },
+            {
+              "text": "掩面揮涕、心痛膽裂矣。便伏拜救主耶穌、認罪、露過、明說。吾永"
+            },
+            {
+              "text": "墮地獄、為堪當之刑。乃上帝之子、無不深加體恤、切祈施恩、萬"
+            },
+            {
+              "text": "惜千憐焉。然信服耶穌、故依焉、全靠焉、且知因救主、代我之罪"
+            },
+            {
+              "text": "遭苦、故我獲罪之救、這可謂信德矣。王會汾道、我看世人各有"
+            },
+            {
+              "text": "所圖。却守信德的人鮮矣。晚生也一聞先生的言、未曉得如何。"
+            },
+            {
+              "text": "他道。惟聖神有能開人之心、教之曉得道理也。吾殉于貨色貪"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左側版心",
+              "text": "轉禍為福之法／二",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "轉禍為福之法",
+                "二"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 10,
+          "context": "涵浹",
+          "candidates": [],
+          "note": "末欄「涵浹」連字有墨淡，候讀待核。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "遭",
+          "candidates": [],
+          "note": "逐欄按原刊。第二欄「遭」後圓圈及第十欄「殉」待核。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "殉",
+          "candidates": [],
+          "note": "逐欄按原刊。第二欄「遭」後圓圈及第十欄「殉」待核。"
+        }
+      ],
+      "observations": "右面：末欄「涵浹」連字有墨淡，候讀待核。 左面：逐欄按原刊。第二欄「遭」後圓圈及第十欄「殉」待核。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2993b064-7acd-4235-a925-4bc4ee808f19.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/2993b064-7acd-4235-a925-4bc4ee808f19/full/2000,/0/default.jpg",
+      "label": "pp. [6]-[7]",
+      "file": "05.jpg",
+      "bytes": 1258568,
+      "sha256": "3673e7e24ef85c310228bfc4dc8c5d7852268e394cfa74759c43dad5d420334d",
+      "native_width": 5412,
+      "native_height": 5850,
+      "downloaded_width": 2000,
+      "downloaded_height": 2162,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "戀紅塵、而縱俄頃之歡、故此未通得信德之情。倘老先生要進"
+            },
+            {
+              "text": "之、只求聖神教化惡心、遂仰耶穌之恩、賴救主之功、求呼籲上"
+            },
+            {
+              "text": "帝、常行不斷焉。他道、耶穌接罪人、曷可知乎。曰、救主親口云。爾"
+            },
+            {
+              "text": "苦勞負重者、俱來就我、吾卽賜安也。吾乃溫良謙遜、故受我之"
+            },
+            {
+              "text": "托、學我之道。則爾心可享安慰。因我托人之事乃易、我付人之"
+            },
+            {
+              "text": "負乃輕也。由是觀之、耶穌招汝火速而來也。他道、由何可知耶"
+            },
+            {
+              "text": "穌救人之罪耶。曰、聖書云、因萬人犯罪、缺上帝之榮、乃因耶穌"
+            },
+            {
+              "text": "基督贖之功、白白受恩表義也。夫上帝立耶穌贖罪之祭、使人"
+            },
+            {
+              "text": "信倚其流血之功、可昭彰其義。然恕先世之罪、上帝寬貸今世、"
+            },
+            {
+              "text": "亦彰其公義。卽自為公義、亦以信耶穌者為義矣。又曰、上帝救"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右側版心",
+              "text": "轉禍為福之法／二",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "轉禍為福之法",
+                "二"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "我出黑暗之權、搬我入其愛子之國、賴其流血吾得贖罪、並獲"
+            },
+            {
+              "text": "諸過之赦。耶穌乃無現上帝之像、萬物之初生。蓋天地有形無"
+            },
+            {
+              "text": "形之物、皆賴其子造化。亦國位、主宰、管轄、權勢、皆賴上帝之子"
+            },
+            {
+              "text": "造化、都為其榮而在焉。且上帝之子、在萬物之先、又萬物賴"
+            },
+            {
+              "text": "之得立焉。他道、旣是如此、余伐功、莫非得救乎、晚生不說謊、不"
+            },
+            {
+              "text": "騙人、不偷物、不淫邪、常時公道、與人往來、施恩行德、恁般善行、"
+            },
+            {
+              "text": "莫非足致救魂乎、何用救主耶。曰、上帝之律例明焉、上主立法"
+            },
+            {
+              "text": "以彰威體。但世間無一人守天之法也、諸凡犯罪于上帝、自招"
+            },
+            {
+              "text": "刑罰。是以先生也、為罪人也。故此人之力不足自救。上帝遣其"
+            },
+            {
+              "text": "獨子、藉肉身之罪容、而緣我罪、在其肉體刑罰惡。旣然子女共"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左側版心",
+              "text": "轉禍為福之法／三",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "轉禍為福之法",
+                "三"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：首欄「俄頃」、第二欄末「籲」候讀。 左面：第二欄「無現上帝之像」、第五欄「余伐功」、末欄「而緣我罪」均依字形候讀。第四欄末印到「賴」，與下一欄起語相接。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2c6c67fd-99ea-4a21-8ba0-4d638ab1a155.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/2c6c67fd-99ea-4a21-8ba0-4d638ab1a155/full/2000,/0/default.jpg",
+      "label": "pp. [8]-[9]",
+      "file": "06.jpg",
+      "bytes": 1235366,
+      "sha256": "13ff95ad7f4fffbf9cde9a9583824255879edbe35a40cd9f35f2e417e87bfb7a",
+      "native_width": 5412,
+      "native_height": 5850,
+      "downloaded_width": 2000,
+      "downloaded_height": 2162,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "一骨肉、主亦像似共之、且捐命致死、可敗壞主治死者魔鬼也。"
+            },
+            {
+              "text": "請先生深思耶穌之外、總無他人可倚之、以得救也。且說、王會"
+            },
+            {
+              "text": "汾暗想道、我學生趨吉避禍、殊覺不易。凡事不可著力處、便是"
+            },
+            {
+              "text": "上帝矣。吾賴上帝之眷祐、避此世之艱難、屢蒙覆幄之恩焉。只"
+            },
+            {
+              "text": "可恨每日人死、未知往何處。我也必死、而落陰間焉。旣是如此、"
+            },
+            {
+              "text": "避後死之難、我所甚願、倘贖罪之理、有把柄、則永賴洪庥、而保"
+            },
+            {
+              "text": "全焉。但不知實情、坐又不安、立又不寧也。正猜測間、德齡道、先"
+            },
+            {
+              "text": "生只仰觀太陽、莫非普照天下乎、尙可疑乎。然則耶穌乃我的"
+            },
+            {
+              "text": "救主、照明顯著亦然、証指供確矣、稍無疑矣。定實確當之事、曷"
+            },
+            {
+              "text": "翻疑哉。上帝表彰其子耶穌、行神蹟靈異、徵諸庶民。耶穌三日"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右側版心",
+              "text": "轉禍為福之法／三",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "轉禍為福之法",
+                "三"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "後復活、明著自為上帝之子也。故曰、我是生活、昔死今活于世"
+            },
+            {
+              "text": "世誠哉。此言也。我執陰間生死之鑰也。吾兄宜信聖書之言、沒"
+            },
+            {
+              "text": "世不忘也。實在耶穌基督為眞證、自死初生者、普天下萬王之"
+            },
+            {
+              "text": "皇者。其本愛我、親流己血、洗滌我罪、封我為王、祭主奉事神父"
+            },
+            {
+              "text": "上帝者、煌榮權勢歸之世世靡暨。正心所願也。"
+            },
+            {
+              "text": "且說。余耳上耳下細聽此敘談、自想、所關甚要、莫不必銘五內。"
+            },
+            {
+              "text": "正思想間、風雨驟至、黑氣漫天。我三人淋得遍身透濕矣。頃間"
+            },
+            {
+              "text": "躲身、環遶而視、就是我看汝、汝望我。半晌默無語、我就開口道。"
+            },
+            {
+              "text": "賢兄適纔論救靈魂之理、小弟才疎智淺、沒有學問、請實告我、"
+            },
+            {
+              "text": "男女老幼、尊卑善惡、一槪可得救乎。德齡道、上帝弗偏視人類、"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左側版心",
+              "text": "轉禍為福之法／四",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "轉禍為福之法",
+                "四"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "也",
+          "candidates": [],
+          "note": "第五欄只排至「也」，其後留空。「靡暨」字義待核；第七欄另起風雨場景。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "靡暨",
+          "candidates": [],
+          "note": "第五欄只排至「也」，其後留空。「靡暨」字義待核；第七欄另起風雨場景。"
+        }
+      ],
+      "observations": "右面：第四欄「覆幄」、第六欄「洪庥」、第九欄「証指供確」依字形保留候讀。 左面：第五欄只排至「也」，其後留空。「靡暨」字義待核；第七欄另起風雨場景。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4c9784aa-b9af-451b-8667-0c6616f60ded.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/4c9784aa-b9af-451b-8667-0c6616f60ded/full/2000,/0/default.jpg",
+      "label": "pp. [10]-[11]",
+      "file": "07.jpg",
+      "bytes": 1243879,
+      "sha256": "298e9549e3785c2f6d2b478fc9b51b80abcb78d809e40f69e7bd3f672914be8e",
+      "native_width": 5412,
+      "native_height": 5850,
+      "downloaded_width": 2000,
+      "downloaded_height": 2162,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "皆獲罪于天而見定罪。今上帝白白施恩。因耶穌代罪人被釘"
+            },
+            {
+              "text": "十字架受死、頒下寬貸赦罪矣、此之謂矣。余道、旣是如此、然盜"
+            },
+            {
+              "text": "賊兇手亦得罪之赦乎。曰、設使痛悔前非、改惡遷善、上帝因耶"
+            },
+            {
+              "text": "穌之大功、寬宥開恩、免其懲辦。余道、莫非沾耶穌之恩、後仍舊"
+            },
+            {
+              "text": "罹重愆否。他曰、聖書云、爾自忖度如死、以滅罪惡。但今復活、以"
+            },
+            {
+              "text": "事上帝、賴耶穌基督之祐也。故勿容罪主爾劣體、致縱私慾、又"
+            },
+            {
+              "text": "勿、以四肢為行惡之器、以縱罪矣。乃如死而復活之人、捨己、奉"
+            },
+            {
+              "text": "上帝務以四肢為行善之器、以事上帝矣。勿容罪惡作主、因爾"
+            },
+            {
+              "text": "弗賴律法、乃沾恩典也。余吃一驚道。人懷毒心、卽沾救主之恩、"
+            },
+            {
+              "text": "怎何瞬眼間、回心向道改過自新乎。他道、耶穌賜聖神賦心、教"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右側版心",
+              "text": "轉禍為福之法／四",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "轉禍為福之法",
+                "四"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "人悔悟力追、勉勵向善、令人行仁義忠信、樂善不倦矣。夫聖神"
+            },
+            {
+              "text": "之化世人、猶風靡草。東風則草靡而西、西風則草靡而東。在風"
+            },
+            {
+              "text": "所由、而草為之靡矣。故曰、聖神感化世人成全焉。耶穌之信士"
+            },
+            {
+              "text": "應該遵德、樂義、勉勵精修、守潔備虔焉。故此聖書曰、爾旣順良"
+            },
+            {
+              "text": "之子、則勿仍舊盲昧、任從私慾也。但所召爾者、旣為清潔、則汝"
+            },
+            {
+              "text": "諸品行、亦當清潔矣。經云。吾旣潔清、爾亦潔清矣。又曰、夫上帝"
+            },
+            {
+              "text": "以神德賜我生命、虔孝、可認召我修德、望榮者、因此上帝應承"
+            },
+            {
+              "text": "最大寶貝之福、使爾脫離世上之惡慾、共通神性也。是以該當"
+            },
+            {
+              "text": "勉勵信、信加諸德、德加諸智、智加諸貞、貞加諸耐、耐加諸虔、虔"
+            },
+            {
+              "text": "加諸仁、仁加諸愛。若有德盛裕、則在耶穌基督之道、汝可無疎"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左側版心",
+              "text": "轉禍為福之法／五",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "轉禍為福之法",
+                "五"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 6,
+          "context": "劣體",
+          "candidates": [],
+          "note": "第六欄「劣體」及第四欄「懲辦」字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "懲辦",
+          "candidates": [],
+          "note": "第六欄「劣體」及第四欄「懲辦」字形待核。"
+        }
+      ],
+      "observations": "右面：第六欄「劣體」及第四欄「懲辦」字形待核。 左面：第一欄「力追」、第四欄「備虔」及第七欄「應承」保留原形候讀。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b01b377-fbda-4946-9a5b-1eaa9c08cdb6.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b01b377-fbda-4946-9a5b-1eaa9c08cdb6/full/2000,/0/default.jpg",
+      "label": "pp. [12]-[13]",
+      "file": "08.jpg",
+      "bytes": 1031186,
+      "sha256": "53487498942a3b4d2a8f18fc7c18b0e91cff79774b5e50f67dbfa01098862bb8",
+      "native_width": 5412,
+      "native_height": 5850,
+      "downloaded_width": 2000,
+      "downloaded_height": 2162,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "無荒矣、但未有此德者、則盲眼昧心、不知淨去舊罪也。是故兄"
+            },
+            {
+              "text": "弟最當勤心表明、誠為上帝所召選之人、蓋如此行者永不廢"
+            },
+            {
+              "text": "也。如此可大進吾主耶穌基督之永存之國也。且說、余聞這言、"
+            },
+            {
+              "text": "悅然信服、切求耶穌垂顧、照應、賜聖神焉。那個王會汾也無任"
+            },
+            {
+              "text": "欣慰矣。我三人知此理、故福安暨合譚。兹生賴救主、後生仰望"
+            },
+            {
+              "text": "耶穌之眷祐、享天堂之福矣。"
+            },
+            {
+              "text": "看官留心信耶穌之道矣、汝願避禍進福、竭力盡忠、猛發信心"
+            },
+            {
+              "text": "矣。便轉禍為福也。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右側版心",
+              "text": "轉禍為福之法／五",
+              "column_anchor": 8,
+              "color": "unknown",
+              "lines": [
+                "轉禍為福之法",
+                "五"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：本篇止於第五葉背。第五欄「故福安暨合譚」候讀。第六、第八欄排短，原尾留空。 左面：正文後的空白面。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a231dc69-36af-4b07-adad-7d6c5cbfc015.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/a231dc69-36af-4b07-adad-7d6c5cbfc015/full/2000,/0/default.jpg",
+      "label": "p. [14] and inside lower cover",
+      "file": "09.jpg",
+      "bytes": 1013976,
+      "sha256": "a7ce3b8e7c1355ac5c31c3596e3a3de704dcec31bcc4d2da7812ba783f531595",
+      "native_width": 5412,
+      "native_height": 5850,
+      "downloaded_width": 2000,
+      "downloaded_height": 2162,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：冊尾空白，未見文字。 左面：後封裏空白，未見文字。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/553e2314-d10e-4e3a-9850-226069a6e702.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/553e2314-d10e-4e3a-9850-226069a6e702/full/2000,/0/default.jpg",
+      "label": "Lower cover",
+      "file": "10.jpg",
+      "bytes": 1027744,
+      "sha256": "01eeaa48339122a5377a5bed549ac66142457934a5cf38119b8cf75653356c4c",
+      "native_width": 5412,
+      "native_height": 5850,
+      "downloaded_width": 2000,
+      "downloaded_height": 2162,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：後封無成句文字，有局部殘墨與污痕。"
+    }
+  ]
+}
